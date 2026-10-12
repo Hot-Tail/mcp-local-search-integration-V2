@@ -1,4 +1,4 @@
-# mcp-local-search-integration
+# mcp-local-search-integration V2
 
 > 在 Windows 10 LTSC + WSL2 (Ubuntu 24.04) 上，把一个只支持 stdio 的免费搜索 MCP，做成**开机自启、断线自愈、零成本**的常驻 HTTP 服务，同时供 Dify 和 DeepSeek Harness 调用。
 
